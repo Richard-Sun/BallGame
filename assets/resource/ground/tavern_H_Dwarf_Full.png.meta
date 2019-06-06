@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "970f4814-4ba7-4b72-94ab-6a88236ca00c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "tavern_H_Dwarf_Full": {
+      "ver": "1.0.4",
+      "uuid": "0e24102e-8b17-4ea9-a3a9-14a34b48af46",
+      "rawTextureUuid": "970f4814-4ba7-4b72-94ab-6a88236ca00c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 0,
+      "trimY": 4,
+      "width": 276,
+      "height": 452,
+      "rawWidth": 276,
+      "rawHeight": 458,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
